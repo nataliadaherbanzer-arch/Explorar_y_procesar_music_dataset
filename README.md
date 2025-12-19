@@ -1,7 +1,7 @@
 # Explorar y procesar music dataset
 Desde el data set "music_project_en" voy a explorar y procesar información sobre los hábitos de escucha de los usuarios en dos ciudades: Springfield y Shelbyville.
 
-##Descripción de las columnas:
+## Descripción de las columnas:
 
 - **'userID'**: identifica de forma exclusiva a cada usuario;
 - **'track'**: título de la canción;
@@ -13,13 +13,11 @@ Desde el data set "music_project_en" voy a explorar y procesar información sobr
 
 El proyecto se divide en dos etapas principales, cada una con objetivos específicos:
 
-Etapa 1: Descripción de los datos.
-El cuaderno tiene celdas preparadas con instrucciones sobre qué tipo de código escribir, así como bloques de texto donde puedes anotar tus observaciones.
-Etapa 2: Preprocesamiento de datos.
-En esta etapa, limpiarás los datos examinando los nombres de las columnas y abordando los valores duplicados y ausentes.
-Sigue la estructura proporcionada en el cuaderno y asegúrate de anotar tus observaciones al final de esta sección.
-Etapa 3: Análisis.
-En esta etapa, analizarás si la actividad de los usuarios y las usuarias presenta variaciones según el día de la semana y la ciudad.
-Es el núcleo de tu proyecto.
-Sigue los pasos de programación necesarios para probar cada declaración y comenta tus resultados en los bloques apropiados.
-Finalmente, resume los resultados de todo el proyecto en la sección "Conclusiones".
+- Etapa 1: Descripción de los datos.
+
+- Etapa 2: Preprocesamiento de datos.
+En esta etapa, limpio los datos examinando los nombres de las columnas y abordando los valores duplicados y ausentes.
+
+- Etapa 3: Análisis.
+En esta etapa, analizo si la actividad de los usuarios y las usuarias presenta variaciones según el día de la semana y la ciudad.
+
